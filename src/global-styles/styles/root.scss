@@ -3,6 +3,10 @@
 /// For examples see Material Design color system: https://m2.material.io/design/color/the-color-system.html
 
 :root {
-    --color-primary: #5721f2;
-    --color-on-surface: #000;
+  --color-primary: #5721f2;
+  --color-on-surface: #000;
 }
+
+// Media screen brakes
+$mobile: 834px;
+$tablet: 1440px;
