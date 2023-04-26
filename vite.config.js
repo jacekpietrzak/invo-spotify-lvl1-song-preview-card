@@ -2,7 +2,7 @@
  * @type {import('vite').UserConfig}
  */
 export default {
-  base: "/invo-lvl1-spotify-song-preview-card/",
+  base: "/invo-spotify-lvl1-song-preview-card/",
   css: {
     devSourcemap: true,
   },
